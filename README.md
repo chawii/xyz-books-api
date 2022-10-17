@@ -75,7 +75,7 @@ xyz-books-api/xyz-books-frontend$ npm install
 xyz-books-api/xyz-books-frontend$ npm run serve
 ```
 
-After running both Rails and Vue.js server, you should be able to access the webpage via [http://localhost:8080/](http://localhost:8080/). Sometimes, axios is getting blocked with a popup/ad blocker, if that ever happen, please disable them first then reload the page.
+After running both Rails and Vue.js server, you should be able to access the webpage via [http://localhost:8080/](http://localhost:8080/). From the book view page, sometimes the book is not being loaded as sometimes the axios request is being blocked by the popup/ad blocker. If that ever happen, kindly disable the popup/ad blocker then reload the page.
 
 ---
 
